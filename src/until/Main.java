@@ -6,11 +6,11 @@ public class Main {
         x = 40;
         y = 45;
         if (x < y)
-            System.out.println("x@ poqr e igrekic aperik");
+            System.out.println("x@ ");
 
         {
             if (x > y)
-                System.out.println("x@ mec e aperik igrekic");
+                System.out.println("x@ mec e ");
 
             if (x == y)
                 System.out.println("x@ havasar e igrekin ");
