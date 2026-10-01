@@ -6,7 +6,7 @@ public class Main {
         x = 40;
         y = 45;
         if (x < y)
-            System.out.println("x@ ");
+            System.out.println("x@ poqr e");
 
         {
             if (x > y)

@@ -4,11 +4,11 @@ public class Scanner {
     public static void main(String[] args) {
         java.util.Scanner scanner = new java.util.Scanner(System.in);
 
-        System.out.println("1");
+        System.out.println("arajin tiv@");
 
         int number1 = scanner.nextInt();
 
-        System.out.println("2");
+        System.out.println("erkrord tiv@");
 
         int number2 = scanner.nextInt();
 
